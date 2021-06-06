@@ -1,1 +1,1 @@
-# react_gitpages
+# React + Git pages
